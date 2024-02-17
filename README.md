@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alpay Gökhan Gider</h1>
 <h3 align="center">A passionate junior full stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Python&Django**
+- 🌱 I’m currently learning **Html-Css-Bootstrap-JavaScript-React-React Native-Node.JS**
 
 - 📫 How to reach me **alpay_gokhan@hotmail.com**
 
